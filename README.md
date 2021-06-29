@@ -1,6 +1,6 @@
 # TODO: react-form-follows-function
 
-A form component with validations using child child functions or render props. See [placeholder.js](https://github.com/JofArnold/react-form-follows-function/blob/master/placeholder.js) for roughly how the code will look
+A form component with validations using child functions or render props. See [placeholder.js](https://github.com/JofArnold/react-form-follows-function/blob/master/placeholder.js) for roughly how the code will look
 
 Features:
 
